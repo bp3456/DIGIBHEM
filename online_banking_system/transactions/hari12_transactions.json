@@ -1,0 +1,10 @@
+[
+    {
+        "type": "Deposit",
+        "amount": 200000
+    },
+    {
+        "type": "Withdraw",
+        "amount": 522
+    }
+]

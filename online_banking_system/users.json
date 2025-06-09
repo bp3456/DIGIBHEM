@@ -1,0 +1,16 @@
+{
+    "hari12": {
+        "name": "hari",
+        "email": "hari@gmail.com",
+        "password": "12345",
+        "mobile": "1234567891",
+        "balance": 200078.0
+    },
+    "bharath1": {
+        "name": "bharath",
+        "email": "bharath@gmail.com",
+        "password": "12345",
+        "mobile": "9632587410",
+        "balance": 1112905.0
+    }
+}

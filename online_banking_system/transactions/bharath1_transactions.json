@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Deposit",
+        "amount": 5000000
+    },
+    {
+        "type": "Withdraw",
+        "amount": 32154
+    },
+    {
+        "type": "Deposit",
+        "amount": 55454
+    },
+    {
+        "type": "Deposit",
+        "amount": 3315
+    },
+    {
+        "type": "Withdraw",
+        "amount": 2000
+    },
+    {
+        "type": "Withdraw",
+        "amount": 665465
+    },
+    {
+        "type": "Withdraw",
+        "amount": 3246845
+    }
+]
